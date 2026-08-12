@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Plus AI — кремовая «искра» (концепт A), тот же знак, что на пустом экране чата. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FBFAF6"
+        android:pathData="M54,20 Q54,54 88,54 Q54,54 54,88 Q54,54 20,54 Q54,54 54,20 Z" />
+    <path
+        android:fillColor="#FBFAF6"
+        android:fillAlpha="0.85"
+        android:pathData="M76,30 Q76,45 90,45 Q76,45 76,60 Q76,45 62,45 Q76,45 76,30 Z" />
+</vector>

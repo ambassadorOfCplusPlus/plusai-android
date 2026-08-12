@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_control_desc">Plus AI управляет телефоном по вашим командам: читает экран, нажимает и вводит текст. Действия подтверждаются согласно режиму (кроме bypass). Включается вами вручную.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Пути, которые FileProvider может отдавать наружу (share_file). Покрывают песочницу под filesDir
+     и external-files. Только каталоги приложения — §7: за пределы песочницы доступа нет. -->
+<paths>
+    <files-path name="sandbox" path="." />
+    <cache-path name="cache" path="." />
+    <external-files-path name="ext_sandbox" path="." />
+</paths>
